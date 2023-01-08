@@ -1,0 +1,6 @@
+logger
+crear archivos (ejemplo subir imagenes, pdf, etc)
+enviar correos
+hacer request a otras APIs
+testing
+datos fake (faker)
