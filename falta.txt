@@ -4,3 +4,5 @@ enviar correos
 hacer request a otras APIs
 testing
 datos fake (faker)
+websockets
+jwt o passport
